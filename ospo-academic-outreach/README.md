@@ -6,12 +6,12 @@ The PyTorch OSPO & Academic Outreach Program is an initiative connecting PyTorch
 - Support academic OSPOs in integrating PyTorch into educational programs and institutional research workflows
 - Educate on reproducible and transparent research aligned with the open source principles that drive PyTorch
 
+# For Contributors
+
 ## What are the deliverables?
 
 - Webinar Series for Academia: Recordings focused on PyTorch fundamentals for academic research and transfer knowledge and open source AI best practices. Starting January 2026
 - Hands-on teaching materials: lecture slides and notebooks with exercises
-
-# For Contributors
 
 ## Who can contribute?
 
@@ -20,7 +20,7 @@ We’re calling on subject matter experts in PyTorch and the academic research c
 - Instructors, researchers, or educators using PyTorch
 - Subject-matter experts in open source AI, reproducibility, or applied research
 - Interested in sharing their knowledge with the academic community
-
+  
 ## How can I contribute?
 
 |Option 1:  Host a Webinar Session | Option 2: Submit Hands-On Materials |
@@ -32,10 +32,43 @@ We’re calling on subject matter experts in PyTorch and the academic research c
 - Recognition as part of the first PyTorch Academic Instructor cohort and/or webinar program committee
 
 ## Make your submission
-- PyTorch Ambassadors can submit their proposals using [this form](https://github.com/pytorch-fdn/ambassador-program-management/issues/new/choose)
+- PyTorch Ambassadors with direct engagement in the academic world (for example, delivering courses or lectures, supervising students, or designing curricula in academic or research contexts) can submit their proposals using [this form](https://github.com/pytorch-fdn/ambassador-program-management/issues/new/choose)
 - If you’re not an ambassador but would like to contribute as an instructor, please email your proposal to 📩 `ospo-outreach@pytorch.org
 
-# For Participants
-If you are a student, professor, or researcher involved in academic or applied AI research, we’re creating a dedicated mailing list for participants to stay updated on the latest program deliverables and educational materials.
+## Make your submission
 
-For now, you can express your interest in joining by emailing 📩 `ospo-outreach@pytorch.org` with the subject line: “Request to join the OSPO & Academic Outreach mailing list”
+### If you are an Ambassador
+
+PyTorch Ambassadors who are directly engaged in academic or research contexts, or who have previous experience working with academia, can submit their proposals using [this form](https://github.com/pytorch-fdn/ambassador-program-management/issues/new/choose). Examples of relevant experience include:
+- Teaching or co-teaching courses, labs, or workshops that use PyTorch or tools from the PyTorch ecosystem  
+- Teaching or co-teaching courses, labs, or workshops that share open source AI best practices  
+- Collaborating with universities, research institutes, or academic OSPOs on open source AI/ML initiatives  
+
+### If you come from academia or research
+
+If you’re not an ambassador but are directly involved in academic or research work, or have previous experience collaborating with academia, please email your proposal to 📩 `ospo-outreach@pytorch.org` with a short description of:
+- Your role and institution  
+- How do you use open source AI / PyTorch in teaching or research  
+- The type of contribution you’d like to make (webinar, hands-on materials, or both)
+
+Examples of topics to submit include:
+
+- Open source AI best practices
+- Courses, labs, or projects that rely on PyTorch or PyTorch ecosystem tools
+- Open source and reproducible research workflows
+
+### Licensing and contribution requirements
+
+All contributions to the PyTorch OSPO & Academic Outreach Program are under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license. By submitting materials, you confirm that you have the necessary rights to license your contribution under CC-BY-4.0. When making a submission, you agree that:
+
+- Program repositories used for this initiative will clearly specify CC-BY-4.0 as the license for documentation
+- Contributed documentation files must include an appropriate SPDX license identifier for CC-BY-4.0
+- [Developer Certificate of Origin (DCO) bot](https://github.com/apps/dco) is enabled for this repository. Contributors must sign off their commits to confirm they have the right to contribute under these terms
+
+# For Participants
+
+If you are a student, professor, or researcher involved in academic or applied AI research, please join our [mailing list](https://lists.pytorch.org/g/ospo-outreach) to stay updated on new webinars, teaching materials, and other program deliverables
+
+# Get Connected
+
+To receive updates about webinars, teaching materials, and contribution opportunities, please subscribe to the program’s mailing list: [OSPO & Academic Outreach mailing list](https://lists.pytorch.org/g/ospo-outreach)
